@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1779405565625,
+      "tag": "0000_dashing_anita_blake",
+      "breakpoints": true
+    }
+  ]
+}
